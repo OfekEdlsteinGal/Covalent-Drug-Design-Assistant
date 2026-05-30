@@ -192,8 +192,8 @@ This project is implemented in Python and primarily relies on:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Warhead-Screener-for-Covalent-Inhibitors.git
-cd Warhead-Screener-for-Covalent-Inhibitors
+git clone https://github.com/OfekEdlsteinGal/Covalent-Drug-Design-Assistant.git
+cd Covalent-Drug-Design-Assistant
 ```
 
 Create a virtual environment:
