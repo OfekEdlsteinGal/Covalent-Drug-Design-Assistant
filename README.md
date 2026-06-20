@@ -301,6 +301,20 @@ The final project will include:
 - Installation and usage instructions.
 
 ---
+## Use of AI Assistance
+
+AI tools (ChatGPT) were used during the development of this project as a programming assistant.
+
+The assistance included:
+
+- Brainstorming project ideas and evaluating their feasibility.
+- Designing the overall project structure and repository organization.
+- Explaining RDKit functionality and SMARTS-based substructure searching.
+- Assisting with implementation of molecular descriptor calculations and Lipinski rule evaluation.
+- Helping design the scoring system and visualization components.
+- Assisting with writing and improving unit tests.
+- Providing guidance for debugging Python, RDKit, and Git issues encountered during development.
+
 
 ## Course Information
 
