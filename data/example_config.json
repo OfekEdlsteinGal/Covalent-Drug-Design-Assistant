@@ -1,0 +1,7 @@
+{
+  "warheads": [
+    "acrylamide",
+    "vinyl_sulfone"
+  ],
+  "max_lipinski_violations": 1
+}

@@ -1,0 +1,38 @@
+{
+  "acrylamide": {
+    "smarts": "C=CC(=O)N",
+    "description": "Michael acceptor commonly used for cysteine targeting"
+  },
+  "cyanoacrylamide": {
+    "smarts": "N#CC=C(C(=O)N)",
+    "description": "Tunable reversible covalent warhead related to acrylamides"
+  },
+  "vinyl_sulfone": {
+    "smarts": "C=CS(=O)(=O)",
+    "description": "Michael acceptor sulfone warhead"
+  },
+  "vinyl_sulfonamide": {
+    "smarts": "C=CS(=O)(=O)N",
+    "description": "Vinyl sulfonamide Michael acceptor warhead"
+  },
+  "chloroacetamide": {
+    "smarts": "ClCC(=O)N",
+    "description": "Alkylating warhead often reactive toward cysteine"
+  },
+  "sulfonyl_fluoride": {
+    "smarts": "S(=O)(=O)F",
+    "description": "SuFEx-capable electrophilic warhead"
+  },
+  "epoxide": {
+    "smarts": "C1OC1",
+    "description": "Strained three-membered electrophilic ring"
+  },
+  "aldehyde": {
+    "smarts": "[CX3H1](=O)",
+    "description": "Carbonyl warhead that can form reversible covalent interactions"
+  },
+  "boronic_acid": {
+    "smarts": "B(O)O",
+    "description": "Warhead often used for serine protease inhibition"
+  }
+}

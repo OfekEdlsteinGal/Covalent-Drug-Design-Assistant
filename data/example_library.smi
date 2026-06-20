@@ -1,0 +1,10 @@
+C=CC(=O)NC1=CC=CC=C1 acrylamide_example
+N#CC=C(C(=O)NC1=CC=CC=C1) cyanoacrylamide_example
+ClCC(=O)NC1=CC=CC=C1 chloroacetamide_example
+C=CS(=O)(=O)C1=CC=CC=C1 vinyl_sulfone_example
+C=CS(=O)(=O)NC1=CC=CC=C1 vinyl_sulfonamide_example
+O=S(=O)(F)C1=CC=CC=C1 sulfonyl_fluoride_example
+O=CC1=CC=CC=C1 aldehyde_example
+C1CO1 epoxide_example
+OB(O)C1=CC=CC=C1 boronic_acid_example
+CCO ethanol_negative_control
